@@ -4,7 +4,7 @@
 blog-backend/
 ├── cmd/
 │ └── server/
-│ └── main.go # 程序入口，初始化配置、数据库、路由和启动 HTTP 服务
+│   └── main.go # 程序入口，初始化配置、数据库、路由和启动 HTTP 服务
 │
 ├── internal/ # 核心业务代码（项目私有，外部无法 import）
 │ ├── config/
