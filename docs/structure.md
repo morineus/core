@@ -1,6 +1,6 @@
 # 项目结构
 
-```
+```script
 blog-backend/
 ├── cmd/
 │ └── server/

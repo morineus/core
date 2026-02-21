@@ -3,7 +3,7 @@ app:
 
 database:
   host: 127.0.0.1
-  port: 65432
+  port: 5432
   user: postgres
-  password: zs20040106
-  name: testdb
+  password: postgres
+  name: blog
